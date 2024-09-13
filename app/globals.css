@@ -1,0 +1,10 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'primaryFont';
+    src: url('./assets/fonts/Lugrasimo/Lugrasimo-Regular.ttf') format('truetype') ;
+  }
