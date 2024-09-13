@@ -3,7 +3,7 @@ import { TypewriterEffectSmooth } from "./ui/typewriter-effect";
 
 export default function TypewriterEffectSmoothDemo() {
     const words = [
-        { text: "AYUSH BHATT", className:"font-primaryFont " },
+        { text: "Harish Yadav", className:"font-primaryFont " },
     ];
 
     return (
