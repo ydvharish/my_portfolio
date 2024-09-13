@@ -30,28 +30,28 @@ export const projectData = [
     liveUrl: "https://example.com/makethingsfloat",
     sourceCode: "https://github.com/example/makethingsfloat"
   },
-  // {
-  //   id: 4,
-  //   title: "Kreanto",
-  //   description: " Led a design agency focused on developing innovative web applications and captivating designs. ",
-  //   imageUrl: img4,
-  //   liveUrl: "https://master--kreanto.netlify.app/",
-  //   sourceCode: "https://github.com/devayush204/kreanto"
-  // },
-  // {
-  //   id: 5,
-  //   title: "UI-Vault",
-  //   description: "Component Depot: Curated selection of free, top-tier UI components to streamline web development.",
-  //   imageUrl: img5,
-  //   liveUrl: "https://ui-vault.vercel.app",
-  //   sourceCode: "https://github.com/devayush204/Ui-Vault"
-  // },
-  // {
-  //   id: 6,
-  //   title: "Sociopedia",
-  //   description: "A mern stack social media web application where users can create, edit, and delete their posts. They can also share their posts with others.",
-  //   imageUrl: img6,
-  //   liveUrl: "https://github.com/devayush204/sociopedia",
-  //   sourceCode: "https://github.com/devayush204/sociopedia"
-  // }
+  {
+    id: 4,
+    title: "Kreanto",
+    description: " Led a design agency focused on developing innovative web applications and captivating designs. ",
+    imageUrl: img4,
+    liveUrl: "https://master--kreanto.netlify.app/",
+    sourceCode: "https://github.com/devayush204/kreanto"
+  },
+  {
+    id: 5,
+    title: "UI-Vault",
+    description: "Component Depot: Curated selection of free, top-tier UI components to streamline web development.",
+    imageUrl: img5,
+    liveUrl: "https://ui-vault.vercel.app",
+    sourceCode: "https://github.com/devayush204/Ui-Vault"
+  },
+  {
+    id: 6,
+    title: "Sociopedia",
+    description: "A mern stack social media web application where users can create, edit, and delete their posts. They can also share their posts with others.",
+    imageUrl: img6,
+    liveUrl: "https://github.com/devayush204/sociopedia",
+    sourceCode: "https://github.com/devayush204/sociopedia"
+  }
 ];

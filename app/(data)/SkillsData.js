@@ -8,31 +8,31 @@ const data= [
       "description": "HTML, Css, Javascript, Reactjs, Nextjs, TailwindCss, Bootstrap, SASS ",
       "icon": "fas fa-arrow-pointer"
     },
-    // {
-    //   "title": "Backend Development",
-    //   "description": "NodeJs, Express, MongoDB, Firebase",
-    //   "icon": "fas fa-code"
-    // },
-    // {
-    //   "title": "Hosting & Deployments",
-    //   "description": "Optimum deployments & reliable hosting for web apps",
-    //   "icon": "fas fa-server"
-    // },
-    // {
-    //   "title": "Web Applications",
-    //   "description": "Figma, GSAP, Framer Motion, Material-UI",
-    //   "icon": "fas fa-grip"
-    // },
-    // {
-    //   "title": "API Development",
-    //   "description": "Crafting robust APIs, turning ideas into functional solutions.",
-    //   "icon": "fas fa-puzzle-piece"
-    // },
-    // {
-    //   "title": "Mobile Applications",
-    //   "description": "React-native, Nativewind",
-    //   "icon": "fas fa-mobile"
-    // }
+    {
+      "title": "Backend Development",
+      "description": " MongoDB, Firebase",
+      "icon": "fas fa-code"
+    },
+    {
+      "title": "Hosting & Deployments",
+      "description": "Optimum deployments & reliable hosting for web apps",
+      "icon": "fas fa-server"
+    },
+    {
+      "title": "Web Applications",
+      "description": "Figma, Framer Motion",
+      "icon": "fas fa-grip"
+    },
+    {
+      "title": "API Development",
+      "description": "Crafting robust APIs, turning ideas into functional solutions.",
+      "icon": "fas fa-puzzle-piece"
+    },
+    {
+      "title": "Mobile Applications",
+      "description": "React-native, ",
+      "icon": "fas fa-mobile"
+    }
   ]
 export const softData= [
     {
